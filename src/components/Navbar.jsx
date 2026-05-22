@@ -13,7 +13,7 @@ export default function Navbar() {
             Home
           </Link>
           <Link to="/checkout" className="navbar-link">
-            Chart
+            Cart
           </Link>
         </div>
         <div className="navbar-auth">
